@@ -1,0 +1,3 @@
+D:/SkillboxProjects/class2/ex/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/SkillboxProjects/class2/ex/cmake-build-debug/CMakeFiles/ex.dir
+D:/SkillboxProjects/class2/ex/cmake-build-debug/CMakeFiles/rebuild_cache.dir
